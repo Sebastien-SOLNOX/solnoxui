@@ -9,7 +9,8 @@ A simple static website for Solnox Systems, built with plain HTML, CSS, and Java
 - `contact.html` - contact details and email call to action
 - `styles.css` - all responsive styling and visual design
 - `script.js` - small enhancements such as the mobile navigation menu
-- `solnox.svg` - logo used in the site header
+- `logo/header.svg` - logo used in the site header
+- `logo/icon.png` - favicon used in the browser tab
 
 ## Develop Locally
 
@@ -88,5 +89,5 @@ Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub details.
 
 - There is no build step.
 - There are no runtime dependencies.
-- The site header uses `solnox.svg`.
+- The site header uses `logo/header.svg`.
 - The site uses Google Fonts. If you want the site to have zero external requests, replace those font links with system fonts.
