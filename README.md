@@ -2,6 +2,10 @@
 
 A simple static website for Solnox Systems, built with plain HTML, CSS, and JavaScript so it can be published directly with GitHub Pages.
 
+Solnox Systems is positioned as an engineering services company for sustainability reporting,
+compliant off-grid power systems, lithium battery lifecycle safety, automation and virtual power
+plants, and energy storage rebate or grant opportunities.
+
 ## Project Files
 
 - `index.html` - homepage content
